@@ -1,0 +1,4 @@
+name: CincoTerras
+markdown: kramdown
+exclude:
+  - README.md
